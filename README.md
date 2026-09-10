@@ -1,2 +1,2 @@
-# Virtual-Mouse-system
+# Eye Tracking  mouse controller 
 python project
