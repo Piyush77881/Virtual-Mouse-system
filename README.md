@@ -1,2 +1,2 @@
-# Eye Tracking  mouse controller 
+# Eye Tracking  Mouse Controller 
 python project
